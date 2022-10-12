@@ -2,5 +2,6 @@
 A Novel Method for Handwritten Digit Recognition System
 
 --> Project Design & Planning
+  
   --> Ideation Phase
 
